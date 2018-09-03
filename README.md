@@ -1,4 +1,58 @@
 # Kotlin
 Kotlin学习笔记
+关键字与操作符
+    应关键字
+    软关键字：一下符号在使用的上下文中充当关键字，而在其他上下文中可用作标识符
+	-by
+	-catch
+	-constructor
+	-delegate
+	-dynamic
+	-field
+	-file
+	-finally
+	-get
+	-import
+	-init
+	-param
+	-property
+	-receiver
+	-set
+	-setparam
+	-where
+    修饰符关键字:以下符号作为声明中修饰符列表中的关键字，并可用作其他上下文中的标识符
+	-actual
+	-abstract
+	-annotation
+	-companion
+	-const
+	-crossinline
+	-data
+	-enum
+	-expect
+	-external
+	-final
+	-infix
+	-inline
+	-inner
+	-internal
+	-lateinit
+	-noinline
+	-open
+	-operator
+	-out
+	-override
+	-private
+	-protected
+	-public
+	-reified
+	-sealed
+	-suspend
+	-tailrec
+	-vararg
+    特殊标识符
+        -field 用在属性访问器内部来引用该属性的幕后字段
+	-it 用在lambda表达式内部来隐式引用其参数
+    操作符和特殊符号
 基础
 高级
