@@ -1,7 +1,37 @@
 # Kotlin
 Kotlin学习笔记
 关键字与操作符
-    应关键字
+    硬关键字：以下符号会始终解释为关键字，不能用作标识符
+	-as
+	-as?
+	-break
+	-class
+	-continue
+	-do
+	-else
+	-false
+	-for
+	-fun
+	-if
+	-in
+	-!in
+	-interface
+	-is
+	-!is
+	-null
+	-object
+	-package
+	-return
+	-super
+	-this
+	-throw
+	-true
+	-try
+	-typealias
+	-val
+	-var
+	-when
+	-while
     软关键字：一下符号在使用的上下文中充当关键字，而在其他上下文中可用作标识符
 	-by
 	-catch
