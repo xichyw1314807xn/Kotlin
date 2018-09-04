@@ -2,16 +2,7 @@
  * [基础](https://kotlinlang.org/)  
  * [高阶函数和lamda表达式]  
  * [关键字与操作符]  
- * [Kotlin Site](https://kotlinlang.org/)
- * [Getting Started Guide](https://kotlinlang.org/docs/tutorials/getting-started.html)
- * [Try Kotlin](https://try.kotlinlang.org/)
- * [Kotlin Standard Library](https://kotlinlang.org/api/latest/jvm/stdlib/index.html)
- * [Issue Tracker](https://youtrack.jetbrains.com/issues/KT)
- * [Forum](https://discuss.kotlinlang.org/)
- * [Kotlin Blog](https://blog.jetbrains.com/kotlin/)
- * [Follow Kotlin on Twitter](https://twitter.com/kotlin)
- * [Public Slack channel](http://slack.kotlinlang.org/)
- * [TeamCity CI build](https://teamcity.jetbrains.com/project.html?tab=projectOverview&projectId=Kotlin)
+ 
 
 关键字与操作符  
     硬关键字：以下符号会始终解释为关键字，不能用作标识符  
